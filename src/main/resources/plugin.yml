@@ -1,0 +1,9 @@
+name: WayFix
+version: 1.0.1
+main: cn.wayfix.WayFixPlugin
+api-version: '1.21'
+depend:
+  - packetevents
+description: 修复服务器发送异常航点数据包导致客户端断开的问题
+authors:
+  - WayFix
