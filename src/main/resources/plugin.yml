@@ -1,6 +1,6 @@
 name: WayFix
 version: 1.0.1
-main: cn.wayfix.WayFixPlugin
+main: awa.uxu.wayfix.WayFixPlugin
 api-version: '1.21'
 depend:
   - packetevents

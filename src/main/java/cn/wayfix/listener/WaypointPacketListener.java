@@ -1,10 +1,10 @@
-package cn.wayfix.listener;
+package awa.uxu.wayfix.listener;
 
 import com.github.retrooper.packetevents.event.PacketListener;
 import com.github.retrooper.packetevents.event.PacketSendEvent;
 import com.github.retrooper.packetevents.protocol.packettype.PacketType;
 import com.github.retrooper.packetevents.wrapper.play.server.WrapperPlayServerWaypoint;
-import cn.wayfix.state.WaypointStateTracker;
+import awa.uxu.wayfix.state.WaypointStateTracker;
 
 import java.util.UUID;
 import java.util.logging.Level;

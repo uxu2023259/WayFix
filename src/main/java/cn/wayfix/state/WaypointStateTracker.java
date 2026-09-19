@@ -1,4 +1,4 @@
-package cn.wayfix.state;
+package awa.uxu.wayfix.state;
 
 import com.github.retrooper.packetevents.wrapper.play.server.WrapperPlayServerWaypoint;
 

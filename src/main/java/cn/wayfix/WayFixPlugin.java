@@ -1,11 +1,11 @@
-package cn.wayfix;
+package awa.uxu.wayfix;
 
 import com.github.retrooper.packetevents.PacketEvents;
 import com.github.retrooper.packetevents.event.PacketListenerCommon;
 import com.github.retrooper.packetevents.event.PacketListenerPriority;
-import cn.wayfix.listener.PlayerLifecycleListener;
-import cn.wayfix.listener.WaypointPacketListener;
-import cn.wayfix.state.WaypointStateTracker;
+import awa.uxu.wayfix.listener.PlayerLifecycleListener;
+import awa.uxu.wayfix.listener.WaypointPacketListener;
+import awa.uxu.wayfix.state.WaypointStateTracker;
 import org.bukkit.plugin.java.JavaPlugin;
 
 public final class WayFixPlugin extends JavaPlugin {

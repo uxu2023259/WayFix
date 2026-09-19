@@ -1,6 +1,6 @@
-package cn.wayfix.listener;
+package awa.uxu.wayfix.listener;
 
-import cn.wayfix.state.WaypointStateTracker;
+import awa.uxu.wayfix.state.WaypointStateTracker;
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
 import org.bukkit.event.player.PlayerKickEvent;
