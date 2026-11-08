@@ -1,5 +1,5 @@
 name: WayFix
-version: 1.0.1
+version: 1.0.3
 main: awa.uxu.wayfix.WayFixPlugin
 api-version: '1.21'
 depend:
